@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/User/Documents/todolist
+-cmake-output
+-output-file
+C:/Users/User/Documents/todolist/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/todolist_conf.cmake
+-importPath
+C:/Users/User/Documents/todolist/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
